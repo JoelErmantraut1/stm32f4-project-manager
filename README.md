@@ -3,11 +3,11 @@
 A group of scripts to create projects, compile code, flash on board and debug on STM32F4 discovery board.
 Based in [LiviuBeraru Blink Example](https://github.com/LiviuBeraru/tuts/tree/master/stm/blinky).
 
-# Description
+## Description
 
 This scripts provides a way of programming STM32F4 boards, without needing to use heavy IDEs, like [Eclipse](https://www.eclipse.org/eclipseide/).
 
-# Usage
+## Usage
 
 You can follow [Liviu Instructions](https://github.com/LiviuBeraru/tuts/blob/master/stm/blinky/Readme.md) to set all
 dependencies needed to do all this work.
@@ -26,7 +26,7 @@ About files:
  - "Libraries": This file is included in Makefile, and is where libraries are added.
  - "Location": File that stores the location of the standard library software of STM, also included in Makefile.
 
-# Take care of
+## Take care of
 
 In [Liviu Usage Instructions](https://github.com/LiviuBeraru/tuts/blob/master/stm/blinky/Readme.md#usage),
 you will see you need to download standard library software, and:
