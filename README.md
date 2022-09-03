@@ -5,7 +5,7 @@ Based in [LiviuBeraru Blink Example](https://github.com/LiviuBeraru/tuts/tree/ma
 
 ## Description
 
-This scripts provides a way of programming STM32F4 boards, without needing to use heavy IDEs, like [Eclipse](https://www.eclipse.org/eclipseide/).
+This scripts provides a way of programming STM32F4 boards, without needing to use heavy IDEs, like [True Studio](https://www.st.com/en/development-tools/truestudio.html).
 
 ## Usage
 
